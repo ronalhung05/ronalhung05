@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data and AI<br>🌱 I’m a student at PTIT majoring in AI engineer<br>⚡I have some experience with software engineer (developing website and application), u can check my works below
+🔭 I’m currently working on Data and AI<br>🌱 I’m a student at PTIT majoring in AI engineer<br>⚡I have some experience with software engineer (developing website and application), and data
 
 
 
